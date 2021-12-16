@@ -16,12 +16,10 @@
 - js(basic)
 - python(basic)
 - HTML/CSS
-- jQuery + Ajax
 - SASS/SCSS + gulp
 - BEM
 - SVG
 - Bootstrap
-- Photoshop
 - CSS/jQuery animation
 
 #### Code examples

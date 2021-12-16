@@ -11,7 +11,9 @@
     discord
 
 #### About me
-    My goal is a become front-end developer . The main goal is improve my js skills and quality of code . Now i can make websites layout using html and css/sass and have few examples 
+    My goal is a become front-end developer . The main goal is improve my js skills
+    and quality of code . 
+    Now i can make websites layout using html and css/sass and have few examples 
 #### Skills
 - js(basic)
 - python(basic)

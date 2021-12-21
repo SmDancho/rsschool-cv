@@ -2,18 +2,18 @@
 
 #### Contacts
 
-    telegram
+[<img src="icons/telegram.png" alt="telegram" width="50"/>](https://t.me/aswellsmith)
 
-    email
+[<img src="icons/email.png" alt="telegram" width="50"/>](mailto:dantereshenko69@gmail.com)
 
-    github
+[<img src="icons/github.png" alt="telegram" width="50"/>](https://github.com/SmDancho)
 
-    discord
+
 
 #### About me
     My goal is a become front-end developer . The main goal is improve my js skills
     and quality of code . 
-    Now i can make websites layout using html and css/sass and have few examples 
+    Now i can make websites using html and css/sass 
 #### Skills
 - js(basic)
 - python(basic)
@@ -27,10 +27,12 @@
 #### Code examples
 
 #### Experience
-pulse - study progect
-uber - study progect
+pulse - study progect - https://github.com/SmDancho/pulse
+uber - study progect - https://github.com/SmDancho/uber
 
 #### Education
 - udemy - web developer course 
 - geekbrains - basics of programing  
 #### English
+
+my current english level is A2 but i still continue study and improve my english level

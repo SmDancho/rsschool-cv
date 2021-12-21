@@ -8,6 +8,12 @@
 
 [<img src="icons/github.png" alt="telegram" width="50"/>](https://github.com/SmDancho)
 
+discrod:
+
+Dancho#4492
+
+rs-user name : Dancho (@SmDancho)
+
 
 
 #### About me
@@ -49,6 +55,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
 #### Experience
 pulse - study progect (html,js/jquery,sass,gulp)- https://github.com/SmDancho/pulse
+
 uber - study progect (html,js,sass)- https://github.com/SmDancho/uber
 
 #### Education
